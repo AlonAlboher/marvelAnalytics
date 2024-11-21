@@ -1,5 +1,5 @@
-This repository contains:
-----------------------------------------------------------
+**This repository contains:**
+
 Marvel studios productions & social activity analysis
 <br>
 Int college Data Analysts class of 2024 final project (Alon Alboher)
