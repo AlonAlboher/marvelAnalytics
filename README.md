@@ -5,8 +5,8 @@ Marvel studios productions & social activity analysis
 Int college Data Analysts class of 2024 final project (Alon Alboher)
 ----------------------------------------------------------
 
-Within this repository you will find a PPTX file (MarvelDataAnalytics29102024.pptx) 
-and a similar PDF file (MarvelDataAnalytics23092024Fixed.pdf) containing the presentation of our entire process as well as KPIs,
+Within this repository you will find a PPTX file **(MarvelDataAnalytics29102024.pptx)**
+and a similar PDF file **(MarvelDataAnalytics23092024Fixed.pdf)** containing the presentation of our entire process as well as KPIs,
 <br>
 data research, analytics, dashboards and more.
 
@@ -29,9 +29,9 @@ Our intial KPIs were:
 
 -----------------------------------------------------------------------------------
 
-The PBIX file (marvel_visuals.pbix) was the first dashboard created with the data we gathered to answer our KPIs,
+The PBIX file **(marvel_visuals.pbix)** was the first dashboard created with the data we gathered to answer our KPIs,
 The dashboard is assimilated from the following files:
-mcu_box_office.csv, viewers.xlsx, instagram.xlsx, tiktok.xlsx, x.xlsx
+**mcu_box_office.csv, viewers.xlsx, instagram.xlsx, tiktok.xlsx, x.xlsx**
 
 **Dashboard preview:**
 ![alt text](https://static.wixstatic.com/media/8e190f_0adfc9f8c7734b0bb687fe7ea12947f7~mv2.jpg/v1/fill/w_1480,h_832,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8e190f_0adfc9f8c7734b0bb687fe7ea12947f7~mv2.jpg)
@@ -64,9 +64,9 @@ of their viewer pool is probably using TikTok based on their avarage age, and so
 
 The following files were provided to us by our teachers to create a social database:
 <br>
-comments.csv, follows.csv, likes.csv, photo_tags.csv, photos.csv, tags.csv, users.csv
+**comments.csv, follows.csv, likes.csv, photo_tags.csv, photos.csv, tags.csv, users.csv**
 
-We created this database using MSSQL, and using this database we wrote the code within SocialFinalProject29102024UnitedFinalFile.sql
+We created this database using MSSQL, and using this database we wrote the code within **SocialFinalProject29102024UnitedFinalFile.sql**
 <br>
 This SQL code answers all the other KPIs presented before.
 
