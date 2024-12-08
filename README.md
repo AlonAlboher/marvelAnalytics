@@ -71,5 +71,5 @@ We created this database using MSSQL, and using this database we wrote the code 
 This SQL code answers all the other KPIs presented before.
 
 ![alt text](https://static.wixstatic.com/media/8e190f_0efaf64d13f64434be8ec358214d2715~mv2.png/v1/fill/w_1480,h_836,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/8e190f_0efaf64d13f64434be8ec358214d2715~mv2.png)
-![alt text](https://cdn.discordapp.com/attachments/1217773850217939087/1309113955095941160/SQL1.jpg?ex=674066e1&is=673f1561&hm=6e005646822210c655c910854f94a344062e4b5dec889bf4342d5d6a1616786e&)
+![alt text](https://raw.githubusercontent.com/AlonAlboher/marvelAnalytics/refs/heads/master/SQL1.jpg)
 
